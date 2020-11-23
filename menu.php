@@ -22,7 +22,7 @@
                 <li><a href="#"><span></span> Information</a></li>
                 <li><a href="#"><span></span> Videos</a></li>
                 <li><a href="#"><span></span> Contact</a></li>
-                <li><a href="#"><span></span> Images</a></li>
+                
             </ul>
 
         <div class="navbar-text pull-right">Connection
