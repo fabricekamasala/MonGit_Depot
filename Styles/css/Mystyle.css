@@ -1,0 +1,133 @@
+﻿body
+{
+  
+}
+.breadcrumb 
+{
+    float:left;
+    margin:7px 10px;
+}
+#idtxtslide
+{
+  opacity:0;
+  -webkit-transition:opacity 1.0s linear 0s;
+  transition:opacity 1.0s linear 0s;
+  color:white;
+}
+#ligne1slide 
+{
+    background-color:brown;
+}
+#img01,#img02,#img03
+{
+   width:260px;
+   height:210px;
+
+}
+#Pgraphe1,#Pgraphe2,#Pgraphe3,#Pgraphe01ligne6,#Pgraphe02ligne6 
+{
+    text-align:justify;
+    font-family:'MS Reference Sans Serif';
+}
+#txtnsformons,#txtnscreons,#txtnspropson,#txtnsserv,#id_refl_masnex,#id_develop_masnex
+{
+   font-family:'MS Reference Sans Serif';
+   font-weight:bold;
+   font-size:25px;
+}
+#zonensserv 
+{
+    list-style:none;
+}
+#img02ligne6,#img03ligne6,#img04ligne6 
+{
+    width:164px;
+    height:140px;
+}
+#img01ligne6 
+{
+    width:285px;
+    height:200px;
+}
+#P_page 
+{
+    background-color:black;
+}
+#footer-text
+{
+    font-size:medium;
+    text-align:center;
+}
+#ul_aboutus 
+{
+    list-style:none;
+}
+#h_contact,#h_pdt,#h_news 
+{
+    text-decoration:underline;
+    color:darkblue;
+}
+#imgnew1,#imgnew2 
+{
+    width:200px;
+    height:120px;
+}
+
+#img_ceo,#img_desk_masnex,#img_team,#img_web_mast
+{
+   width:260px;
+   height:240px;
+}
+
+#id_eq_masnex,#id_about_masnex 
+{
+   font-family:'MS Reference Sans Serif';
+   font-weight:bold;
+   font-size:30px;
+}
+
+#id_div,#id_wpf,#id_mobile,#id_app_web,#id_desk_masnex,#id_team,#id_webmast 
+{
+    text-align:center;
+}
+
+#id_contact,#id_det_serv 
+{
+  text-align:center;
+  font-weight:bold;
+  font-size:17px;
+}
+
+#btn_new1 
+{
+  width:260px;
+}
+#btn_new2 
+{
+  width:262px;
+}
+
+#imgnew1 
+{
+    width:260px;
+    height:148px;
+}
+#imgnew2 
+{
+    width:262px;
+    height:148px;
+}
+
+#id_par_news1,#id_par_news2 
+{
+    text-align:center
+}
+
+#id_tab_mod,#id_tab_mod2,#id_tab_mod3 
+{
+    text-align:center;
+}
+#id_entete_tab1,#id_entete_tab2,#id_entete_tab3,#id_tech,#id_langage,#id_environnement 
+{
+    font-weight:bolder;
+}
